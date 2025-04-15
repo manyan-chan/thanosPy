@@ -1,9 +1,9 @@
 # ThanosPy 🫰
 
-[![PyPI version](https://badge.fury.io/py/thanospy.svg)](https://badge.fury.io/py/thanospy) <!-- Update when published -->
+[![PyPI version](https://badge.fury.io/py/py-thanos-snap.svg)](https://badge.fury.io/py/py-thanos-snap) <!-- Update when published -->
 [![CI Status](https://github.com/manyan-chan/thanosPy/actions/workflows/python-package.yml/badge.svg)](https://github.com/manyan-chan/thanosPy/actions/workflows/python-package.yml) <!-- Update USERNAME/REPO -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python Versions](https://img.shields.io/pypi/pyversions/thanospy.svg) <!-- Update when published -->
+![Python Versions](https://img.shields.io/pypi/pyversions/py-thanos-snap.svg) <!-- Update when published -->
 
 *"Perfectly balanced... as all things should be."*
 

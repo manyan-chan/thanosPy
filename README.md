@@ -30,27 +30,27 @@
 
 Install directly from PyPI:
 
-'''bash
+```bash
 pip install thanospy
-'''
+```
 
 Or install from the source repository:
 
-'''bash
+```bash
 pip install git+https://github.com/manyan-chan/thanosPy.git # Update USERNAME/REPO
-'''
+```
 
 For local development:
 
-'''bash
+```bash
 git clone https://github.com/manyan-chan/thanosPy.git # Update USERNAME/REPO
 cd thanosPy
 pip install -e .[test]
-'''
+```
 
 ## Usage Example
 
-'''python
+```python
 import thanospy
 import random
 
@@ -117,7 +117,7 @@ except TypeError as e:
     print(f"\nError for unsupported type: {e}")
 # Example Output: Error for unsupported type: Unsupported data type for snap: CustomObject
 
-'''
+```
 
 ## How Snapping Works
 
@@ -133,9 +133,9 @@ The package uses `pytest`. To run tests:
 1.  Install test dependencies: `pip install -e .[test]`
 2.  Run from the root directory:
 
-'''bash
+```bash
 pytest
-'''
+```
 
 ## Contributing
 

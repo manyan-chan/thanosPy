@@ -4,7 +4,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "thanospy"
+name = "py-thanos-snap"
 version = "0.1.0"
 authors = [{ name = "Richard Chan", email = "richard.mychan@gmail.com" }]
 description = "Randomly remove half the content of Python data structures, like a Thanos snap."

@@ -31,7 +31,7 @@
 Install directly from PyPI:
 
 ```bash
-pip install thanospy
+pip install py-thanos-snap
 ```
 
 Or install from the source repository:
